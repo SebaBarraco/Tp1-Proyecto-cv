@@ -1,0 +1,22 @@
+
+*{
+    box-sizing: border-box;
+    word-wrap: break-word;
+}
+
+body {
+    margin: 0px;
+}
+ 
+iframe{
+    width: 520px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    padding: 5px;
+    margin: 0;
+    color: grey;        
+    font-size: 4vw;
+}
